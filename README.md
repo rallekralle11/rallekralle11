@@ -2,7 +2,7 @@
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning everything all at once
 - 💞️ I’m looking to collaborate on nothing in perticular
-- 📫 How to reach me: rasmus@plantverket.se, rallekralle#3473
+- 📫 How to reach me: rasmus@ping-el.se, rallekralle#3473
 
 <!---
 rallekralle11/rallekralle11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
